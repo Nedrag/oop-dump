@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1666806539 source:c:\users\nuzdi\documents\c++\fmradio\main.cpp
+	<iostream>
+	"radio.hpp"
+
+1666806713 c:\users\nuzdi\documents\c++\fmradio\radio.hpp
+	<iostream>
+
